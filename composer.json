@@ -1,0 +1,20 @@
+{
+    "name": "fadlidony/c45-php",
+    "description": "C4.5 decision tree implementation in PHP language",
+    "type": "library",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+   "classmap": [
+    "src"
+   ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fadlidony",
+            "email": "fadlidonypradana@gmail.com"
+        }
+    ]
+}
